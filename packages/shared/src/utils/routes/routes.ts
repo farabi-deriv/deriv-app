@@ -107,7 +107,6 @@ export const DISABLE_LANDSCAPE_BLOCKER_ROUTES = [
     routes.onboarding,
     routes.compare_cfds,
     routes.reports,
-    routes.bot,
     /** because contract route has dynamic id */
     '/contract',
 ];
